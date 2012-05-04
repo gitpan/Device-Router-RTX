@@ -1,5 +1,5 @@
 ---
-abstract: 'interact with Yamaha RTX routers'
+abstract: unknown
 author:
   - 'Ben Bullock <bkb@cpan.org>'
 build_requires:
@@ -23,4 +23,4 @@ requires:
 resources:
   bugtracker: https://github.com/benkasminbullock/Device-Router-RTX/issues
   repository: https://github.com/benkasminbullock/Device-Router-RTX
-version: 0.01
+version: 0.02

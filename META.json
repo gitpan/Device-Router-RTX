@@ -1,5 +1,5 @@
 {
-   "abstract" : "interact with Yamaha RTX routers",
+   "abstract" : "unknown",
    "author" : [
       "Ben Bullock <bkb@cpan.org>"
    ],
@@ -46,5 +46,5 @@
          "url" : "https://github.com/benkasminbullock/Device-Router-RTX"
       }
    },
-   "version" : "0.01"
+   "version" : "0.02"
 }
