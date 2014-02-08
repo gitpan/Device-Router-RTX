@@ -12,7 +12,7 @@
                    
 
 
-This is the README for Device::Router::RTX version 0.04.
+This is the README for Device::Router::RTX version 0.05.
 
 Device::Router::RTX is a "module" for the Perl computer programming language, a
 library of computer code to install on a computer.  This document contains four
@@ -54,6 +54,8 @@ using
 
 3. INSTALLATION
 
+This module requires Perl version 5.8.1 or later.
+
 To install the module from CPAN, use
 
     cpan Device::Router::RTX
@@ -62,11 +64,11 @@ If you have the App::cpanminus installer, you may prefer
 
     cpanm Device::Router::RTX
 
-To install the module from the source file, Device-Router-RTX-0.04.tar.gz,
+To install the module from the source file, Device-Router-RTX-0.05.tar.gz,
 follow this sequence of commands:
 
-    tar xfz Device-Router-RTX-0.04.tar.gz
-    cd Device-Router-RTX-0.04
+    tar xfz Device-Router-RTX-0.05.tar.gz
+    cd Device-Router-RTX-0.05
     perl Makefile.PL
     make
     make install
@@ -91,6 +93,6 @@ repository on github at
 
 -----------------------------------------------------------------------------
 
-This README was written on Sat Nov 30 10:58:51 2013.
+This README was written on Sat Feb  8 10:11:57 2014.
 
 -----------------------------------------------------------------------------
